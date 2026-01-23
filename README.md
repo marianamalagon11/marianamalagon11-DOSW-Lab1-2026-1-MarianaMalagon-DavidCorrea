@@ -12,10 +12,11 @@
 
 ### Reto 1: Configuración y creación de rama
 **Evidencia:**
-Captura de imagen
-
+![alt text](image.png)
 **Descripción:**
 Breve explicación del proceso realizado para configurar el repositorio y crear una nueva
+
+A la debida creación del repositorio, permitiendo archivo README, se añadieron los integrantes y con GitBash recurrimos a crear cada uno de los integrantes una rama con el formato feature/ApellidoNombre_2026-1.
 
 ---
 
