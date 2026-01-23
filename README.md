@@ -22,10 +22,10 @@ A la debida creación del repositorio, permitiendo archivo README, se añadieron
 
 ### Reto 2: Commit colaborativo
 **Evidencia:**
-Captura de imagen
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 **Descripción:**
-Breve explicación de cómo se realizcó el trabajo colaborativo, cómo se integraron los cambios
+Cada integrante después de realizar su propia rama, realizó sus cambios en ella misma, y mediante uso de comandos como git push, git pull y git merge. Se relizaron varios pull requests y también cambios efectuados en develop
 
 ___
 
