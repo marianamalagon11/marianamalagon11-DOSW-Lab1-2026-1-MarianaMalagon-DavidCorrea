@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class Reto1 {
     public static void main(String[] args) {
 
         List<Estudiante> pareja = List.of(
@@ -20,7 +20,7 @@ public class Main {
 
         StringBuilder mensaje = new StringBuilder();
 
-       mensaje.append("¡Hola, bienvenidos! Nosotros somos la pareja conformada por "
+        mensaje.append("¡Hola, bienvenidos! Nosotros somos la pareja conformada por "
                 + personas
                 + ". Nuestros correos institucionales son "
                 + correos

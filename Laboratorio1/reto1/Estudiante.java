@@ -20,6 +20,6 @@ public class Estudiante {
     public int getEdad() {
         return edad; }
 
-    public String getCorreo() { r
-        eturn correo; }
+    public String getCorreo() {
+        return correo; }
 }
