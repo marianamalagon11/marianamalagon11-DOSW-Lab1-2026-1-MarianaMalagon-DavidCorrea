@@ -12,7 +12,7 @@
 
 ### Reto 1: Configuración y creación de rama
 **Evidencia:**
-![alt text](image.png)
+![alt text](images/image.png)
 **Descripción:**
 Breve explicación del proceso realizado para configurar el repositorio y crear una nueva
 
@@ -22,8 +22,8 @@ A la debida creación del repositorio, permitiendo archivo README, se añadieron
 
 ### Reto 2: Commit colaborativo
 **Evidencia:**
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 **Descripción:**
 Cada integrante después de realizar su propia rama, realizó sus cambios en ella misma, y mediante uso de comandos como git push, git pull y git merge. Se relizaron varios pull requests y también cambios efectuados en develop
 
