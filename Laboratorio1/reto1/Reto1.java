@@ -6,7 +6,7 @@ public class Reto1 {
 
         List<Estudiante> pareja = List.of(
                 new Estudiante("David Correa", 6, 21, "david.correa-g@mail.escuelaing.edu.co"),
-                new Estudiante("Mariana Tochoy", 6, 21, "mariana.malagon-t@mail.escuelaing.edu.co")
+                new Estudiante("Mariana Malagon", 6, 20, "mariana.malagon-t@mail.escuelaing.edu.co")
         );
 
         String personas = pareja.stream()
