@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Builder{
+public class j{
     private String frase;
     public Builder(String frase){
         this.frase = frase;
