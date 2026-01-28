@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8959f20-ac10-4e46-8ca7-1cfdff055150" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Laboratorio1/reto1/Estudiante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorio1/reto1/Reto1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoMisterioso.java" beforeDir="false" afterPath="$PROJECT_DIR$/EcoMisterioso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/reto3_builder_CorreaDavid_2026-1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Merging feature/reto3__buffer__MalagonMariana__2026-1"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
