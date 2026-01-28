@@ -3,7 +3,7 @@ import java.util.*;
 
 public class EcoMisterioso{
     private String frase;
-    public Builder(String frase){
+    public EcoMisterioso(String frase){
         this.frase = frase;
     }
 
