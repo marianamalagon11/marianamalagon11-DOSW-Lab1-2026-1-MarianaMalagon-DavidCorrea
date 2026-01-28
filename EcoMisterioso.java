@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class j{
+public class EcoMisterioso{
     private String frase;
     public Builder(String frase){
         this.frase = frase;
