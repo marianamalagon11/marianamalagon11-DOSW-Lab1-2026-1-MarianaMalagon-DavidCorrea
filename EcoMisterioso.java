@@ -7,11 +7,12 @@ public class EcoMisterioso{
         this.frase = frase;
     }
 
-    private String repetir(){
-        StringBuilder palabra = new StringBuilder();
-        palabra.append(frase + " " + frase + " " + frase);
-        return palabra.toString();
+    private String repetir() {
+        return IntStream.range(0, 3)
+                .mapToObj(i -> frase)
+                .collect(Collectors.joining(" "));
     }
+
 
     public String repetirYInvertir() {
         String repetido = repetir();
