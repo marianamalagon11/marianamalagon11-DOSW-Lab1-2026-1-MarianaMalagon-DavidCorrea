@@ -1,4 +1,7 @@
 import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
 public class EcoMisterioso {
     private String frase;
 
@@ -26,5 +29,5 @@ public class EcoMisterioso {
         EcoMisterioso eco = new EcoMisterioso("Probando el reto");
         Runnable ejecutarEco = () -> System.out.println(eco.repiteEInvierte());
         ejecutarEco.run();
-
+    }
 }
