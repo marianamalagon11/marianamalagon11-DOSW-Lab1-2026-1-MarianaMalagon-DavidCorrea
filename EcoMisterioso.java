@@ -12,12 +12,4 @@ public class EcoMisterioso{
                 .mapToObj(i -> frase)
                 .collect(Collectors.joining(" "));
     }
-
-
-    public String repetirYInvertir() {
-        String repetido = repetir();
-        StringBuilder sb = new StringBuilder(repetido);
-        return sb.reverse().toString();
-    }
-
 }
