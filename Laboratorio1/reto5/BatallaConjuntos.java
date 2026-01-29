@@ -1,4 +1,4 @@
-public class Reto5
+public class BatallaConjuntos
 {
     public static HashSet<Integer> almacenar(List<Integer> lista) {
         HashSet<Integer> orden = lista.stream()

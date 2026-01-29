@@ -1,4 +1,4 @@
-public class Maquina {
+public class MaquinaDecisiones {
 
     public static String ejecutarComando(String comando) {
         switch (comando) {
