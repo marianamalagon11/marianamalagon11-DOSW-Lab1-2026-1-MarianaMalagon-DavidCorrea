@@ -2,7 +2,10 @@
 
 ## Integrantes 
 - David Shadday Correa Gonzalez
-- Mariana Malagon Tochoy 
+- Mariana Malagon Tochoy
+  Hoja de vida (presentación clase):
+  <img width="589" height="628" alt="image" src="https://github.com/user-attachments/assets/073fef8d-6f00-4a0d-9af5-44e34d8b440f" />
+
 
 
 ---
@@ -52,24 +55,30 @@ Entonces lo solcionamos mezclando los métodos que cada uno hizo en un método, 
 ### Reto 4:
 ### RETO #4: El tesoro de las llaves duplicadas  
 En este reto cuando cada uno realizo su mètodo correspondiente, hicimos merge y tuvimos conflicto:
+<img width="547" height="45" alt="image" src="https://github.com/user-attachments/assets/27d92e91-b3cd-44eb-b92e-401900572ec6" />
 
 Arreglamos el conflicto unificando en una clase los mètodos de los dos y añadiendo
 los otros dos mètodos que pedìan y volviendo a hacer merge, quedò la funciòn final y este es el resultado cumpliendo los requisitos:
+<img width="972" height="113" alt="image" src="https://github.com/user-attachments/assets/b22fc8f8-02aa-4916-8fbd-49adb6a35506" />
 
 
 ### Reto 5:
 ### RETO #5: Batalla de Conjuntos  
 Para este reto iniciamos cada uno realizando nuestra tarea en cada rama, luego de esto hicimos un merge en el que tuvimos que solucionar conflictos y añadiendole el metodo que juntara ambas colecciones y quitara duplicados.
 El conflicto:
+<img width="637" height="43" alt="image" src="https://github.com/user-attachments/assets/f9b34aa5-8b21-4340-9f9c-184b95c581c9" />
 
 El resultado:
+<img width="1052" height="146" alt="image" src="https://github.com/user-attachments/assets/b1ec4c18-4626-4cf4-8fce-5990673effce" />
 
 ### Reto 6:
 ### RETO #6: La máquina de decisiones 
 En este reto cada uno hizo su respectivo fragmento del manual, tuvimos problemas en el merge ya que habìamos realizado de diferente manera el manual, este fue el problema:
+<img width="987" height="50" alt="image" src="https://github.com/user-attachments/assets/56ce0e29-f884-4e08-a1e3-96e38f0046e1" />
 
 
 Lo resolvimos unificandolo de la misma manera, cumpliendo los requisitos y el resultado fue el siguiente, dejando algunos comandos como ejemplos:
+<img width="1058" height="121" alt="image" src="https://github.com/user-attachments/assets/86a3b9cb-af43-453f-8ca8-988caf42cda9" />
 
 
 ___
