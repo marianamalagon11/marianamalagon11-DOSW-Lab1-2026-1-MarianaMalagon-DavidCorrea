@@ -1,6 +1,4 @@
 public class CarreraParalela{
-    private int minimo;
-    private int cantidad;
 
     public int numeroMasGrande(List<Integer> lista) {
         return lista.stream()
@@ -15,7 +13,7 @@ public class CarreraParalela{
         int cantidad = lista.size();
     }
 
-    public static List<Integer> resultadosCombinados(List<Integer> lista){
+    public static List<Integer> resultadosCombinados(List<Integer> lista) {
         List<Integer> nuevaLista = new ArrayList<>();
         int maximo = numeroMasGrande(lista);
         numPeqCant(lista);
