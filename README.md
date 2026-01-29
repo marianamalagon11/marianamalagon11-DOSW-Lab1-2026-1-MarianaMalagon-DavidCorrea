@@ -28,6 +28,7 @@ A la debida creación del repositorio, permitiendo archivo README, se añadieron
 Cada integrante después de realizar su propia rama, realizó sus cambios en ella misma, y mediante uso de comandos como git push, git pull y git merge. Se relizaron varios pull requests y también cambios efectuados en develop
 
 ### Retos de la Hackaton:
+
 ### RETO #1: La Bienvenida:
 En este reto usamos una expresión lambda para imprimir un saludo de bienvenida con los nombres de nosotros, nuestra edad, correo y semestre.
 Usamos lo requerido, stream(), map() y collect().
@@ -50,10 +51,27 @@ Entonces lo solcionamos mezclando los métodos que cada uno hizo en un método, 
 
 ### Reto 4:
 ### RETO #4: El tesoro de las llaves duplicadas  
+En este reto cuando cada uno realizo su mètodo correspondiente, hicimos merge y tuvimos conflicto:
+
+Arreglamos el conflicto unificando en una clase los mètodos de los dos y añadiendo
+los otros dos mètodos que pedìan y volviendo a hacer merge, quedò la funciòn final y este es el resultado cumpliendo los requisitos:
+
+
 ### Reto 5:
 ### RETO #5: Batalla de Conjuntos  
+Para este reto iniciamos cada uno realizando nuestra tarea en cada rama, luego de esto hicimos un merge en el que tuvimos que solucionar conflictos y añadiendole el metodo que juntara ambas colecciones y quitara duplicados.
+El conflicto:
+
+El resultado:
+
 ### Reto 6:
-### RETO #6: La máquina de decisiones  
+### RETO #6: La máquina de decisiones 
+En este reto cada uno hizo su respectivo fragmento del manual, tuvimos problemas en el merge ya que habìamos realizado de diferente manera el manual, este fue el problema:
+
+
+Lo resolvimos unificandolo de la misma manera, cumpliendo los requisitos y el resultado fue el siguiente, dejando algunos comandos como ejemplos:
+
+
 ___
 
 ## Preguntas teóricas
