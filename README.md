@@ -40,6 +40,9 @@ Este es el resultado:
 
 ### Reto 2:
 ### RETO #2: Carrera en Paralelo  
+La historia de los commits para el reto dos:
+<img width="1129" height="315" alt="image" src="https://github.com/user-attachments/assets/dca52883-b3e0-4c40-a685-44450d2a9448" />
+
 ### Reto 3:
 ### RETO #3: El eco misterioso:
 Para este reto, primero cada estudiante hizo lo requerido, el primero una función que repitiera el mensaje tres veces, y el segundo una función que inviertiera la frase:
