@@ -13,14 +13,14 @@ public class CarreraParalela{
         int cantidad = lista.size();
     }
 
-    public static List<Integer> resultadosCombinados(List<Integer> numeros){
-        List<Integer> listaFinal = new ArrayList<>();
-        int numMax = numeroMasGrande(numeros);
-        numPeqCant(numeros);
-        listaFinal.add(maximo);
-        listaFinal.add(minimo);
-        listaFinal.add(cantidad);
-        return listaFinal;
+    public static List<Integer> resultadosCombinados(List<Integer> lista) {
+        List<Integer> nuevaLista = new ArrayList<>();
+        int maximo = numeroMasGrande(lista);
+        numPeqCant(lista);
+        nuevaLista.add(maximo);
+        nuevaLista.add(minimo);
+        nuevaLista.add(cantidad);
+        return nuevaLista;
     }
 
     public static boolean divDeDos(int num) {
@@ -28,8 +28,16 @@ public class CarreraParalela{
     }
 
     public static boolean datosImpares(int cantidad) {
-
         return (cantidad % 2 != 0) ? true : false;
+    }
+
+    public static boolean verificadorMultiploDeDos(List<Integer> lista){
+        int numero = numeroMasGrande(lista);
+        return numero % 2 == 0 ? true : false;
+    }
+
+    public static boolean verificadorCantDatosPar(List<Integer> lista){
+        return lista.size() % 2 == 0 ? true : false;
     }
 
 }
