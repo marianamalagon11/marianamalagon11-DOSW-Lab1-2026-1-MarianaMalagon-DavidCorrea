@@ -28,6 +28,7 @@ public class CarreraParalela{
     }
 
     public static boolean datosImpares(int cantidad) {
+
         return (cantidad % 2 != 0) ? true : false;
     }
 
