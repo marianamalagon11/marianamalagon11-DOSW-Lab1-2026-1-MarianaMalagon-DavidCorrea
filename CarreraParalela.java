@@ -1,4 +1,11 @@
+import java.util.List;
+import java.util.ArrayList;
+
 public class CarreraParalela{
+    private int minimo;
+    private int cantidad;
+    private int maximo;
+
 
     public int numeroMasGrande(List<Integer> lista) {
         return lista.stream()
@@ -40,4 +47,24 @@ public class CarreraParalela{
         return lista.size() % 2 == 0 ? true : false;
     }
 
+    public List<Object> funcionFusionada(List<Integer> lista1, List<Integer> lista2) {
+        List<Integer> listaUnida = new ArrayList<>();
+        listaUnida.addAll(lista1);
+        listaUnida.addAll(lista2);
+
+        numeroMasGrande(listaUnida);
+        numeroPeqCant(listaUnida);
+
+        boolean maxEsMultiplo = divDeDos(max);
+        boolean cantEsPar = !datosImpares(cant);
+
+        List<Object> resultados = new ArrayList<>();
+        resultados.add(maximo);
+        resultados.add(minimo);
+        resultados.add(cantidad);
+        resultados.add(maxEsMultiplo);
+        resultados.add(cantEsPar);
+
+        return resultados;
+    }
 }
