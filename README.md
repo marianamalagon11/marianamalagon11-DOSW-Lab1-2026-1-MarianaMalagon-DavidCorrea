@@ -102,16 +102,25 @@ Con git log --graph --oneline --all puedes ver ramas y merges de forma visual en
 
 6. ¿Qué diferencia hay entre HashMap y HashTable? === HashMap no es sincronizado y permite null como clave, Hashtable es sincronizado y no permite claves ni valores null.
 
-7. ¿Qué ventajas Fene Collectors.toMap() frente a un bucle tradicional para llenar un mapa?
+7. ¿Qué ventajas tiene Collectors.toMap() frente a un bucle tradicional para llenar un mapa? ===  
+Collectors.toMap() ofrece claridad y concisión al llenar mapas declarativamente, permite paralelismo con parallelStream(), gestiona claves duplicadas de forma elegante y se integra directamente con streams.
 
-8. Si usas List con objetos y luego aplicas stream().map(), ¿qué tipo de operación estás haciendo?
+8. Si usas List con objetos y luego aplicas stream().map(), ¿qué tipo de operación estás haciendo? ===  
+Estoy realizando una operación de transformación, aplicando una función a cada elemento de la lista para generar un nuevo stream con los resultados.
 
-9. ¿Qué hace el método stream().filter() y qué retorna?
+9. ¿Qué hace el método stream().filter() y qué retorna? ===  
+Aplica un predicado para filtrar elementos de un stream según una condición y retorna un nuevo stream con los elementos que cumplen el predicado.
 
-10. Describe el paso a paso de cómo crear una rama desde develop si es una funcionalidad nueva.
+10. Describe el paso a paso de cómo crear una rama desde develop si es una funcionalidad nueva. ===  
+- Asegúrate de estar en la rama develop: git checkout develop.  
+- Actualiza develop opcional: git pull origin develop.  
+- Crea la rama con estándar feature/: git checkout -b feature/nueva-funcionalidad.  
+- Verifica que estás en la nueva rama: git branch.
 
-11. ¿Cuál es la diferencia entre crear una rama con git branch y con git checkout -b?
+11. ¿Cuál es la diferencia entre crear una rama con git branch y con git checkout -b? ===  
+git branch solo crea la rama, pero no te mueve a ella. git checkout -b crea la rama y te mueve a ella en un solo paso.
 
-12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente?
+12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente? ===  
+Trabajar en ramas feature/ permite desarrollar de forma aislada, protege la rama main de errores, facilita la colaboración y mantiene un flujo de trabajo limpio y organizado.
 =======
 
