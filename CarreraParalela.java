@@ -23,5 +23,12 @@ public class CarreraParalela{
         return listaFinal;
     }
 
+    public static boolean divDeDos(int num) {
+        return (num % 2 == 0) ? true : false;
+    }
+
+    public static boolean datosImpares(int cantidad) {
+        return (cantidad % 2 != 0) ? true : false;
+    }
 
 }
