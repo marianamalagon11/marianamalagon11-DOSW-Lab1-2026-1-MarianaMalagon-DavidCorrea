@@ -22,4 +22,14 @@ public class CarreraParalela{
         nuevaLista.add(cantidad);
         return nuevaLista;
     }
+
+    public static boolean verificadorMultiploDeDos(List<Integer> lista){
+        int numero = numeroMasGrande(lista);
+        return numero % 2 == 0 ? true : false;
+    }
+
+    public static boolean verificadorCantDatosPar(List<Integer> lista){
+        return lista.size() % 2 == 0 ? true : false;
+    }
+
 }
