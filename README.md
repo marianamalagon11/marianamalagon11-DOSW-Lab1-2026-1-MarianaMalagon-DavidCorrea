@@ -84,9 +84,34 @@ Lo resolvimos unificandolo de la misma manera, cumpliendo los requisitos y el re
 ___
 
 ## Preguntas teóricas
-- Pregunta 1:
-![Uploading image.png…]()
+1. ¿Cuál es la diferencia entre git merge y git rebase?
+Merge combina los historiales de dos ramas conservando los commits originales, generando un commit de merge; rebase "reaplica" tus commits sobre otra rama, dejando un historial lineal.
 
-  Respuesta...
+
+2. Si dos ramas modifican la misma línea de un archivo, ¿qué sucede al hacer merge?  ===
+
+Si dos ramas modifican la misma línea, Git marca un conflicto que debes resolver manualmente antes de completar el merge.
+
+3. ¿Cómo puedes ver gráficamente el historial de merges y ramas en consola? = ==
+
+Con git log --graph --oneline --all puedes ver ramas y merges de forma visual en texto.
+
+4. Explica la diferencia entre un commit y un push.  === Commit guarda cambios localmente en tu repositorio; push envía esos commits al repositorio remoto.
+
+5. ¿Para qué sirven git stash y git pop? === Stash guarda temporalmente cambios sin hacer commit,  pop aplica esos cambios nuevamente y los elimina del stash.
+
+6. ¿Qué diferencia hay entre HashMap y HashTable? === HashMap no es sincronizado y permite null como clave, Hashtable es sincronizado y no permite claves ni valores null.
+
+7. ¿Qué ventajas Fene Collectors.toMap() frente a un bucle tradicional para llenar un mapa?
+
+8. Si usas List con objetos y luego aplicas stream().map(), ¿qué tipo de operación estás haciendo?
+
+9. ¿Qué hace el método stream().filter() y qué retorna?
+
+10. Describe el paso a paso de cómo crear una rama desde develop si es una funcionalidad nueva.
+
+11. ¿Cuál es la diferencia entre crear una rama con git branch y con git checkout -b?
+
+12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente?
 =======
 
