@@ -26,7 +26,8 @@ A la debida creación del repositorio, permitiendo archivo README, se añadieron
 
 ### Reto 2: Commit colaborativo
 **Evidencia:**
-![alt text](images/image-1.png)
+<img width="1301" height="593" alt="image" src="https://github.com/user-attachments/assets/5fa8c226-5c9c-4ace-9e20-df27e4bb375a" />
+
 ![alt text](images/image-2.png)
 **Descripción:**
 Cada integrante después de realizar su propia rama, realizó sus cambios en ella misma, y mediante uso de comandos como git push, git pull y git merge. Se relizaron varios pull requests y también cambios efectuados en develop
