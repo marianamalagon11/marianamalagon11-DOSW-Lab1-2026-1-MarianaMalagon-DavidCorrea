@@ -122,5 +122,21 @@ git branch solo crea la rama, pero no te mueve a ella. git checkout -b crea la r
 
 12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente? ===  
 Trabajar en ramas feature/ permite desarrollar de forma aislada, protege la rama main de errores, facilita la colaboración y mantiene un flujo de trabajo limpio y organizado.
+
+**Acuerdos Mariana:**
+1. **Distribución de responsabilidades** ===  
+Planeabamos dividirnos, pero como los puntos era de mucha interacción estuvimos haciendolos juntos al tiempo, entonces en cuanto a distribución fue la misma.
+
+
+3. **Forma de comunicación** ===  
+La comunicación fue en WhatsApp para acordar las llamadas que se realizaron en Discord.
+4. **Frecuencia de trabajo** ===  
+Trabajamos 2 días maso menos 2 horas en la noche y lo que se adelanta en el lab.
+
+5. **Manejo de conflictos y desacuerdos** ===  
+No hubo conflictos, pero en caso de haber en un futuro se resolverán de la manera adecuada y respetuosa.
+
+6. **Compromisos frente a entregas y calidad** ===  
+Cumplir con fechas de entrega, asegurar calidad mediante buenas prácticas de desarrollo e informar a tiempo sobre posibles retrasos.
 =======
 
