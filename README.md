@@ -15,7 +15,8 @@
 
 ### Reto 1: Configuración y creación de rama
 **Evidencia:**
-![alt text](images/image.png)
+<img width="1367" height="727" alt="image" src="https://github.com/user-attachments/assets/87d6e021-5d14-4f8e-9f00-af475e431eeb" />
+
 **Descripción:**
 Breve explicación del proceso realizado para configurar el repositorio y crear una nueva
 
