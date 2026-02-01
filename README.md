@@ -3,6 +3,7 @@
 ## Integrantes 
 - David Shadday Correa Gonzalez
   Hoja de vida (presentación clase):
+  
   <img width="436" height="632" alt="image" src="https://github.com/user-attachments/assets/c0bbee8b-43f4-4c98-af93-f4b4d760eb28" />
 
 - Mariana Malagon Tochoy
